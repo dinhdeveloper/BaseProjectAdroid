@@ -1,2 +1,2 @@
 # BaseProjectAdroid
-Tích hợp thư viện MVC trong android
+Thư viện android
