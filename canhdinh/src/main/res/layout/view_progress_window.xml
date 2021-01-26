@@ -23,7 +23,7 @@
             android:layout_width="50dp"
             android:layout_height="50dp" />
 
-        <baseproject.tran.canhdinh.widgets.kprogess.MKLoader
+        <baseproject.tran.canhdinh.widgets.progresswindow.mkloader.MKLoader
             android:id="@+id/mkLoaderClassicSpinner"
             android:layout_width="50dp"
             android:layout_height="50dp"
@@ -32,7 +32,7 @@
             app:mk_type="ClassicSpinner"
             tools:visibility="visible" />
 
-        <baseproject.tran.canhdinh.widgets.kprogess.MKLoader
+        <baseproject.tran.canhdinh.widgets.progresswindow.mkloader.MKLoader
             android:id="@+id/mkLoaderLineSpinner"
             android:layout_width="50dp"
             android:layout_height="50dp"
@@ -41,7 +41,7 @@
             app:mk_type="LineSpinner"
             tools:visibility="visible" />
 
-        <baseproject.tran.canhdinh.widgets.kprogess.MKLoader
+        <baseproject.tran.canhdinh.widgets.progresswindow.mkloader.MKLoader
             android:id="@+id/mkLoaderFishSpinner"
             android:layout_width="50dp"
             android:layout_height="50dp"
